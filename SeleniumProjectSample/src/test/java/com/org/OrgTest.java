@@ -11,4 +11,9 @@ public class OrgTest {
 	public void modifyOrg() {
 		System.out.println("Modify Org.");
 	}
+	
+	@Test
+	public void deleteOrg() {
+		System.out.println("Delete org.");
+	}
 }
